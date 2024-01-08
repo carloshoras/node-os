@@ -1,0 +1,5 @@
+const printOS = require('./osModule.js')
+const printNetwork = require('./networkModule.js')
+printOS()
+console.log()
+printNetwork()
